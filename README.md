@@ -14,7 +14,7 @@
 </p>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="universespa" title="#univspa" src="./assets/UniverseSPA.png" width="100%">
+  <img alt="universespa" title="#univspa" src=".app/assets/UniverseSPA.png" width="100%">
 
 </p>
 
