@@ -25,13 +25,13 @@
 A project to practice Simple Page Applications (SPA) and Routes. Learned how to use promises and assyncronism and created a
 simple local server using NodeJS.
 
-# Install the dependencies
+Install the dependencies
 $ npm install
 
-# Run the application 
+Run the application 
 $ npm run start
 
-# The Server will start at port: 3000 - go to http://localhost:3000
+The Server will start at port: 3000 - go to http://localhost:3000
 
 ## 🛠 Stack
 
